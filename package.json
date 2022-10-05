@@ -1,14 +1,22 @@
 {
-	"name": "fcc-learn-npm-package-json",
-	"dependencies": {
-		"express": "^4.14.0"
-	},
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://idontknow/todo.git"
-	}
+  "name": "fcc-learn-npm-package-json",
+  "author": "Tori Zhao",
+  "description": "I'm gonna learn backend!Yeah!",
+  "keywords": [
+    "backend",
+    "fullstack",
+    "freecodecamp"
+  ],
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://idontknow/todo.git"
+  },
+  "license": "MIT"
 }
